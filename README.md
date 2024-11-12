@@ -12,5 +12,7 @@
 > 这里不是项目，要么看[我的其他存储库](https://github.com/MJKCURSEFORCE/MJKCURSEFORCE/)
 
 > [!TIP]
-> 到时候会创建文件分享站项目，至于怎么搞我也不清楚。
+> 到时候会创建文件分享站项目，怎么搞？
+> * 把文件简介放在README.md，文件放在Release，并标号。
+> * 或者把文件和简介直接放在Release，并标号。
 
